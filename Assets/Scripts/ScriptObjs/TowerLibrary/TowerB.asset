@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32acce07a101c40bf9ee2de31e100194, type: 3}
+  m_Name: TowerB
+  m_EditorClassIdentifier: 
+  energyCost: 2
+  power: 2
+  durability: 4
+  cardName: Tower B
+  cardText: Tower B has no ability
+  cardArt: {fileID: 21300000, guid: fe0ea6de8d3fa45e6a78d9291ccdbeb3, type: 3}
+  attackSpeed: 0
+  range: 2.25
